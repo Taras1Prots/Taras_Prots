@@ -129,9 +129,6 @@
   <ItemGroup>
     <ClCompile Include="Module2.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Text Include="MyInfo.txt" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
